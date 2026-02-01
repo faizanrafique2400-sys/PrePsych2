@@ -1,0 +1,7 @@
+fastapi==0.109.2
+uvicorn[standard]==0.27.1
+python-multipart==0.0.9
+httpx==0.26.0
+openai-whisper==20231117
+pydantic==2.6.1
+pydantic-settings==2.1.0
